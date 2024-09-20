@@ -1,0 +1,6 @@
+Pentesting real reports examples: 
+https://github.com/juliocesarfort/public-pentesting-reports
+
+Pentesting reports templates:
+https://pentestreports.com/templates/
+https://github.com/hmaverickadams/TCM-Security-Sample-Pentest-Report
